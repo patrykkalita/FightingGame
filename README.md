@@ -12,4 +12,4 @@ Player 2 controls:
 - KeyUp, KeyDown, KeyLeft, KeyRight - move
 - Num1, Num2 - attack
 
-![Game screen](game screen.png)
+![Game screen](gamescreen.png)
